@@ -1,4 +1,4 @@
 Első sor.
 Második sor.
-Harmadik sor.
+Harmadik sor javítva.
 Negyedik sor.
