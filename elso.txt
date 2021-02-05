@@ -1,6 +1,6 @@
 Első sor.
 - ez lesz a plusz sor
 Második sor.
-Harmadik sor.
+Harmadik sor javítva.
 Negyedik sor.
 Ötödi sor.
